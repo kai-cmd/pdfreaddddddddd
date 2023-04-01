@@ -1,4 +1,4 @@
-#part 1
+#  part 1
 
 
 Automatic Identification of Braille Blocks by Neural Network
@@ -1141,8 +1141,8 @@ using the maximum pressure selection when walking. IPSJ SIG Technical Report
 
 99
 
-
-#part2
+ 
+#  part2
 
 
 2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated
